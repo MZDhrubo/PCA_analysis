@@ -1,31 +1,29 @@
 # PCA_analysis
 This repository contains an end-to-end workflow for Principal Component Analysis (PCA) using R. It demonstrates how to perform dimensionality reduction, visualize high-dimensional datasets, and interpret results for better insights.
-Features
+# Features
 
-Data preprocessing and standardization
+1. Data preprocessing and standardization
 
-PCA computation using prcomp() and FactoMineR
+2. PCA computation using prcomp() and FactoMineR
 
-Scree plots, biplots, and variance explained visualization
+3. Scree plots, biplots, and variance explained visualization
 
-Interpretation of principal components
+4. Interpretation of principal components
 
-Example datasets for practice
+5. Clean, reproducible R scripts and RMarkdown notebooks
 
-Clean, reproducible R scripts and RMarkdown notebooks
+# Requirements
 
-Requirements
+- R (≥ 4.0)
 
-R (≥ 4.0)
+R- ecommended packages: ggplot2, factoextra, FactoMineR, dplyr
 
-Recommended packages: ggplot2, factoextra, FactoMineR, dplyr
+# Use Cases
 
-Use Cases
+- Reducing dimensionality in large datasets
 
-Reducing dimensionality in large datasets
+- Visualizing complex multivariate relationships
 
-Visualizing complex multivariate relationships
+- Identifying key variables driving variance
 
-Identifying key variables driving variance
-
-Exploratory data analysis in machine learning pipelines
+- Exploratory data analysis in machine learning pipelines
